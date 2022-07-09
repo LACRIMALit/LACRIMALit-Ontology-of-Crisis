@@ -1,6 +1,6 @@
 ## Welcome to the LACRIMALit Ontology of Crisis
 
-Visit the [LACRIMALit] project home page( https://www.ims.forth.gr/en/project/view?id=219)
+Visit the [LACRIMALit] (https://www.ims.forth.gr/en/project/view?id=219) project home page
 
 You can use the [editor on GitHub](https://github.com/LACRIMALit/LACRIMALit-Ontology-of-Crisis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
