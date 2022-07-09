@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the LACRIMALit Ontology of Crisis
 
 You can use the [editor on GitHub](https://github.com/LACRIMALit/LACRIMALit-Ontology-of-Crisis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
