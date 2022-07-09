@@ -2,7 +2,8 @@
 
 Visit the [LACRIMALit](https://www.ims.forth.gr/en/project/view?id=219) project homepage.
 
-Visit
+Visit the LACRIMALit SPARQL ENDPOINT
+
 ===============
 You can use the [editor on GitHub](https://github.com/LACRIMALit/LACRIMALit-Ontology-of-Crisis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
